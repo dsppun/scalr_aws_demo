@@ -4,7 +4,7 @@ terraform {
   # Modern cloud backend configuration for Scalr
   cloud {
     hostname     = "dsppun.scalr.io"
-    organization = "env-v0oqq3rdbegqlo1ho"
+    organization = "env-v0otem809oid6ji7r"
     workspaces {
       name = "aws_s3_bucket_example"
     }
